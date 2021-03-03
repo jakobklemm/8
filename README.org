@@ -5,10 +5,4 @@ A highly overengeneered algorithm to calculate =8=. Not =7=, not =9=, just =8=.
 
 Based on the formula: 987654321 / 123456789 = 8
 
-/This program is absolutly useless and should never be used for any serious
-applications!/
-
-
-
-
 written, not commented and never reviewed again by Jakob Klemm, 6.12.2019
