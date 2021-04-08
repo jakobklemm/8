@@ -1,7 +1,7 @@
 #+TITLE: 8
 #+AUTHOR: Jakob Klemm
 
-A highly overengeneered algorithm to calculate =8=. Not =7=, not =9=, just =8=.
+A highly overengineered algorithm to calculate =8=. Not =7=, not =9=, just =8=.
 
 Based on the formula: 987654321 / 123456789 = 8
 
